@@ -1,0 +1,28 @@
+---
+title: "Capston project details - animals"
+output: html_document
+---
+#**Introduction:** 
+Analyze the Louisville Department of Animal Services intake and outcome data and build a model to predict if, based on attributes obtained at the time of intake, an animal will have a positive or negative outcome. The likihood of the animal being returned to the shelter may also be predicted. 	
+
+#**Who’s the customer:** 
+Animal shelters, humane societies 
+
+#**What will they do with this information:**
+The information this analysis will provide could be used to assist with cost/benefit analysis for placement strategies and euthanasia decisions.
+
+#**Possible limitations:** 
+This data is from one animal service department, and is not a representative sample of all geographies or agencies. We also do not know how consistently the data is entered and some of the attributes could be subjective.
+
+Information about actions taken to place an animal is not known.
+
+The dataset contains several columns for which no definition has been provided.
+
+#**Datasets:**
+[DATASET](https://data.louisvilleky.gov/dataset/animal-service-intake-and-outcome)
+
+ # of instances = 144051  
+ # of attributes = 22
+
+ 
+  
