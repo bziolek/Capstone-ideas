@@ -1,0 +1,27 @@
+---
+title: "Twitter sentiment"
+output:
+  html_document: default
+  pdf_document: default
+---
+#**Introduction:** 
+Analyze tweets and create a prediction model which predicts the sentiment of of a tweet as Positive, Negative, Neutral, or Irrelevant
+
+#**Who’s the customer:** 
+Any company or person interested in understanding public opionin and attitudes towards a specific topic. This information could be used to help make decisions based on consumer feedback/sentiment.
+
+#**Possible limitations:** 
+The sentiment labelling for this dataset was subjective and was peformed by an American male fluent in English. However, tweets were not limited to only people fluent in English. Misinterpretations may be present.
+
+#**Datasets:**
+[DATASET](http://www.sananalytics.com/lab/twitter-sentiment/)
+
+ # of instances = 5513  
+   
+ Each entry contains:  
+- Tweet id  
+- Tweet text  
+- Tweet creation date  
+- Topic used for sentiment  
+- Sentiment label: ‘positive’, ‘neutral’, ‘negative’, or ‘irrelevant’ 
+
